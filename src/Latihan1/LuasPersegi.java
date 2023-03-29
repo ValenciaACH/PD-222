@@ -1,3 +1,5 @@
+package Latihan1;
+
 public class LuasPersegi {
     public static void main(String[] args) {
         /* Rumus luas persegi:

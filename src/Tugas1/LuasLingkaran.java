@@ -1,3 +1,5 @@
+package Tugas1;
+
 public class LuasLingkaran {
     public static void main(String[] args) {
 
